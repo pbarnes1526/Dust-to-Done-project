@@ -1,0 +1,32 @@
+{
+  "companyName": "Dust to Done Renovation Solutions",
+  "companySubtitle": "Invoice",
+  "companyFooter": "Dust to Done Renovation Solutions LLC — Indianapolis, IN",
+  "loadingText": "Loading your invoice…",
+  "notFoundTitle": "Invoice not found",
+  "summaryLabels": {
+    "invoiceNumber": "Invoice #",
+    "billedTo": "Billed to",
+    "project": "Project",
+    "dueDate": "Due Date",
+    "status": "Status"
+  },
+  "lineItemsHeading": "Services & Materials",
+  "tableHeaders": {
+    "description": "Description",
+    "qty": "Qty",
+    "unitPrice": "Unit Price",
+    "total": "Total"
+  },
+  "totalsLabels": {
+    "subtotal": "Subtotal",
+    "tax": "Tax",
+    "total": "Total Due"
+  },
+  "notesLabel": "Notes",
+  "payButton": "Pay Now",
+  "payingButton": "Redirecting to payment…",
+  "paidTitle": "Invoice Paid",
+  "paidMessage": "Thank you for your payment! We appreciate your business.",
+  "pageDescription": "View and pay your invoice from Dust to Done Renovation Solutions."
+}

@@ -1,0 +1,115 @@
+{
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "/airo-assets/uploads/logo-horizontal-fadcb39d.jpg",
+    "searchQuery": "",
+    "alternatives": [
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/393ecc27-45fb-4e4f-9f18-79d12cdad769/session/4426749b-9622-4b61-8a46-df1f264b2cf5/horizontal-transparent-7e217562-77ed-4b22-9f54-e9012f1aac37/logo-logo.png"
+    ],
+    "productMockupsMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/393ecc27-45fb-4e4f-9f18-79d12cdad769/session/4426749b-9622-4b61-8a46-df1f264b2cf5/horizontal-transparent-7e217562-77ed-4b22-9f54-e9012f1aac37/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/393ecc27-45fb-4e4f-9f18-79d12cdad769/session/4426749b-9622-4b61-8a46-df1f264b2cf5/horizontal-mockup-mug-7e217562-77ed-4b22-9f54-e9012f1aac37/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/393ecc27-45fb-4e4f-9f18-79d12cdad769/session/4426749b-9622-4b61-8a46-df1f264b2cf5/horizontal-mockup-card-7e217562-77ed-4b22-9f54-e9012f1aac37/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/393ecc27-45fb-4e4f-9f18-79d12cdad769/session/4426749b-9622-4b61-8a46-df1f264b2cf5/horizontal-mockup-tshirt-7e217562-77ed-4b22-9f54-e9012f1aac37/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/393ecc27-45fb-4e4f-9f18-79d12cdad769/session/4426749b-9622-4b61-8a46-df1f264b2cf5/horizontal-mockup-box-7e217562-77ed-4b22-9f54-e9012f1aac37/logo-logo.png"
+        }
+      ]
+    },
+    "productMockups": [
+      {
+        "type": "mug",
+        "label": "Mug",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/393ecc27-45fb-4e4f-9f18-79d12cdad769/session/4426749b-9622-4b61-8a46-df1f264b2cf5/horizontal-mockup-mug-7e217562-77ed-4b22-9f54-e9012f1aac37/logo-logo.png"
+      },
+      {
+        "type": "card",
+        "label": "Business Card",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/393ecc27-45fb-4e4f-9f18-79d12cdad769/session/4426749b-9622-4b61-8a46-df1f264b2cf5/horizontal-mockup-card-7e217562-77ed-4b22-9f54-e9012f1aac37/logo-logo.png"
+      },
+      {
+        "type": "tshirt",
+        "label": "T-Shirt",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/393ecc27-45fb-4e4f-9f18-79d12cdad769/session/4426749b-9622-4b61-8a46-df1f264b2cf5/horizontal-mockup-tshirt-7e217562-77ed-4b22-9f54-e9012f1aac37/logo-logo.png"
+      },
+      {
+        "type": "box",
+        "label": "Packaging",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/393ecc27-45fb-4e4f-9f18-79d12cdad769/session/4426749b-9622-4b61-8a46-df1f264b2cf5/horizontal-mockup-box-7e217562-77ed-4b22-9f54-e9012f1aac37/logo-logo.png"
+      }
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-10T19:08:49.168Z",
+    "lastUpdated": "2026-11-10T19:45:01.944Z",
+    "surfaceMode": "dark",
+    "darkSurfaceUrl": "/airo-assets/uploads/logo-horizontal-fadcb39d.jpg",
+    "uploadSources": {
+      "/airo-assets/uploads/logo-horizontal-fadcb39d.jpg": "gpfgclwtbv_1794339863791_file_3_pSrNcw5b.jpg"
+    },
+    "uploadContentHash": "7d8768cf131a5d11b1d4ce5a71c97a81f868f34ca4b48cb8e2b3f9356f555988",
+    "naturalOrientation": "square"
+  },
+  "logo/favicon": {
+    "mediaType": "logo",
+    "currentUrl": "/airo-assets/uploads/logo-favicon-9f560e4f.png",
+    "searchQuery": "",
+    "alternatives": [
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/393ecc27-45fb-4e4f-9f18-79d12cdad769/session/40008c7a-88a5-4dca-91e6-4f4a6ad2c3b8/favicon-transparent-099aa0b6-dc01-4511-bf9b-8c71835ac26b/logo-logo.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-10T19:09:05.442Z",
+    "lastUpdated": "2026-11-10T19:45:01.946Z",
+    "surfaceMode": "dark",
+    "darkSurfaceUrl": "/airo-assets/uploads/logo-favicon-9f560e4f.png",
+    "uploadSources": {
+      "/airo-assets/uploads/logo-favicon-9f560e4f.png": "gpfgclwtbv_1794339863791_file_3_pSrNcw5b.jpg"
+    },
+    "uploadContentHash": "7d8768cf131a5d11b1d4ce5a71c97a81f868f34ca4b48cb8e2b3f9356f555988"
+  },
+  "logo/primary": {
+    "darkSurfaceUrl": "/airo-assets/uploads/logo-primary-94ed44fa.png",
+    "surfaceMode": "dark",
+    "currentUrl": "/airo-assets/uploads/logo-primary-94ed44fa.png",
+    "userModified": true,
+    "mediaType": "logo",
+    "searchQuery": "",
+    "alternatives": [],
+    "uploadSources": {
+      "/airo-assets/uploads/logo-primary-94ed44fa.png": "gpfgclwtbv_1794339863791_file_3_pSrNcw5b.jpg"
+    },
+    "uploadContentHash": "7d8768cf131a5d11b1d4ce5a71c97a81f868f34ca4b48cb8e2b3f9356f555988",
+    "createdAt": "2026-11-10T19:45:01.946Z",
+    "lastUpdated": "2026-11-10T19:45:01.946Z",
+    "naturalOrientation": "square"
+  },
+  "logo/vertical": {
+    "darkSurfaceUrl": "/airo-assets/uploads/logo-vertical-17ea11e3.png",
+    "surfaceMode": "dark",
+    "currentUrl": "/airo-assets/uploads/logo-vertical-17ea11e3.png",
+    "userModified": true,
+    "mediaType": "logo",
+    "searchQuery": "",
+    "alternatives": [],
+    "uploadSources": {
+      "/airo-assets/uploads/logo-vertical-17ea11e3.png": "gpfgclwtbv_1794339863791_file_3_pSrNcw5b.jpg"
+    },
+    "uploadContentHash": "7d8768cf131a5d11b1d4ce5a71c97a81f868f34ca4b48cb8e2b3f9356f555988",
+    "createdAt": "2026-11-10T19:45:01.946Z",
+    "lastUpdated": "2026-11-10T19:45:01.946Z",
+    "naturalOrientation": "vertical"
+  }
+}

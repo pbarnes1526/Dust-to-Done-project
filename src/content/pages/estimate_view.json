@@ -1,0 +1,33 @@
+{
+  "companyName": "Dust to Done Renovation Solutions",
+  "companySubtitle": "Estimate",
+  "companyFooter": "Dust to Done Renovation Solutions LLC — Indianapolis, IN",
+  "loadingText": "Loading your estimate…",
+  "notFoundTitle": "Estimate not found",
+  "summaryLabels": {
+    "estimateNumber": "Estimate #",
+    "preparedFor": "Prepared for",
+    "project": "Project",
+    "validUntil": "Valid Until",
+    "status": "Status"
+  },
+  "scopeHeading": "Scope of Work",
+  "tableHeaders": {
+    "description": "Description",
+    "qty": "Qty",
+    "unitPrice": "Unit Price",
+    "total": "Total"
+  },
+  "totalsLabels": {
+    "subtotal": "Subtotal",
+    "tax": "Tax",
+    "total": "Total"
+  },
+  "notesLabel": "Notes",
+  "acceptButton": "Accept Estimate",
+  "acceptingButton": "Accepting…",
+  "acceptedTitle": "Estimate Accepted",
+  "acceptedMessage": "Thank you! We'll be in touch shortly to get started.",
+  "acceptDisclaimer": "By clicking Accept, you agree to the scope and pricing above.",
+  "pageDescription": "Review and accept your estimate from Dust to Done Renovation Solutions."
+}

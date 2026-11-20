@@ -1,0 +1,50 @@
+{
+  "title": "Material Orders",
+  "description": "Track and manage material orders for all jobs",
+  "searchPlaceholder": "Search orders…",
+  "emptyState": "No material orders yet.",
+  "addButton": "Add Order",
+  "statuses": [
+    "Needed",
+    "Ordered",
+    "Confirmed",
+    "In Transit",
+    "Delivered",
+    "Backordered",
+    "Cancelled",
+    "Returned"
+  ],
+  "units": [
+    "each",
+    "lf",
+    "sf",
+    "sy",
+    "cy",
+    "lb",
+    "ton",
+    "bag",
+    "box",
+    "pallet",
+    "roll",
+    "sheet",
+    "bundle",
+    "gal"
+  ],
+  "formTitle": "Add Material Order",
+  "formTitleEdit": "Edit Material Order",
+  "fields": {
+    "description": "Description",
+    "quantity": "Quantity",
+    "unit": "Unit",
+    "supplier": "Supplier",
+    "productLink": "Product Link",
+    "unitPrice": "Unit Price ($)",
+    "totalCost": "Total Cost ($)",
+    "status": "Status",
+    "orderDate": "Order Date",
+    "expectedDelivery": "Expected Delivery",
+    "actualDelivery": "Actual Delivery",
+    "notes": "Notes",
+    "jobId": "Job (optional)"
+  }
+}

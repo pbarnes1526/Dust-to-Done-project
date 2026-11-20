@@ -1,0 +1,24 @@
+{
+  "printLabels": {
+    "heading": "ESTIMATE",
+    "dateLabel": "Date",
+    "validUntilLabel": "Valid Until",
+    "estimateNumLabel": "Estimate #",
+    "preparedForLabel": "Prepared For",
+    "jobAddressLabel": "Job Address",
+    "scopeLabel": "Scope of Work",
+    "descriptionCol": "Description",
+    "categoryCol": "Category",
+    "qtyUnitCol": "Qty / Unit",
+    "unitPriceCol": "Unit Price",
+    "totalCol": "Total",
+    "subtotalLabel": "Subtotal",
+    "totalLabel": "Total",
+    "notesLabel": "Notes",
+    "termsLabel": "Terms & Conditions",
+    "acceptanceLabel": "Client Acceptance",
+    "sigClientLabel": "Client Signature",
+    "sigDateLabel": "Date",
+    "sigNameLabel": "Printed Name"
+  }
+}

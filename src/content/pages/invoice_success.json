@@ -1,0 +1,13 @@
+{
+  "metaTitle": "Payment Confirmation – Dust to Done",
+  "verifyingTitle": "Verifying Payment…",
+  "verifyingMessage": "Please wait while we confirm your payment.",
+  "successTitle": "Payment Successful!",
+  "successMessage": "Your payment has been received and recorded.",
+  "labelInvoice": "Invoice",
+  "labelAmountPaid": "Amount Paid",
+  "labelReference": "Reference",
+  "btnViewInvoice": "View Invoice",
+  "errorTitle": "Payment Verification Failed",
+  "btnBackToInvoices": "Back to Invoices"
+}

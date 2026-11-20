@@ -1,0 +1,25 @@
+{
+  "title": "Customers",
+  "description": "Manage customer records and project history",
+  "searchPlaceholder": "Search customers…",
+  "emptyState": "No customers yet.",
+  "addButton": "Add Customer",
+  "formTitle": "Add Customer",
+  "formTitleEdit": "Edit Customer",
+  "fields": {
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "notes": "Notes",
+    "warrantyInfo": "Warranty Info"
+  },
+  "tabs": {
+    "jobs": "Jobs",
+    "estimates": "Estimates",
+    "invoices": "Invoices"
+  },
+  "emptyJobs": "No jobs found.",
+  "emptyEstimates": "No estimates found.",
+  "emptyInvoices": "No invoices found."
+}

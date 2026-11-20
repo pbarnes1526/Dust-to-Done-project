@@ -1,0 +1,7 @@
+{
+  "pageTitle": "Payment Cancelled — Dust to Done",
+  "heading": "Payment Cancelled",
+  "message": "No payment was made. You can return to your invoice or go back to the dashboard.",
+  "btnInvoices": "Back to Invoices",
+  "btnDashboard": "Go to Dashboard"
+}

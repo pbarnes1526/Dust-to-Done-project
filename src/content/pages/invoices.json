@@ -1,0 +1,26 @@
+{
+  "printLabels": {
+    "heading": "INVOICE",
+    "dateLabel": "Date",
+    "dueDateLabel": "Due Date",
+    "invoiceNumLabel": "Invoice #",
+    "billToLabel": "Bill To",
+    "jobAddressLabel": "Job Address",
+    "scopeLabel": "Scope of Work",
+    "descriptionCol": "Description",
+    "typeCol": "Type",
+    "qtyCol": "Qty",
+    "unitPriceCol": "Unit Price",
+    "totalCol": "Total",
+    "breakdownLabel": "Breakdown",
+    "laborLabel": "Labor",
+    "materialsLabel": "Materials",
+    "otherLabel": "Other",
+    "subtotalLabel": "Subtotal",
+    "taxLabel": "Tax",
+    "totalLabel": "Total",
+    "notesLabel": "Notes",
+    "termsLabel": "Terms & Conditions",
+    "paymentLabel": "Payment Instructions"
+  }
+}

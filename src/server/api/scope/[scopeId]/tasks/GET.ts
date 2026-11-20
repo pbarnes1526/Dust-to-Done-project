@@ -1,0 +1,15 @@
+import type { Request, Response } from 'express';
+import { db } from '../../../../db/client.js';
+import { scopeTasks } from '../../../../db/schema.js';
+import { eq, asc } from 'drizzle-orm';
+
+export default async function handler(req: Request<{ scopeId: string }>, res: Response) {
+  try {
+    const projectId = Number(req.params.scopeId);
+    if (isNaN(projectId)) return res.status(400).json({ error: 'Invalid scopeId' });
+    const tasks = await db.select().from(scopeTasks).where(eq(scopeTasks.projectId, projectId)).orderBy(asc(scopeTasks.sortOrder));
+    return res.json(tasks);
+  } catch (error) {
+    return res.status(500).json({ error: 'Failed to fetch tasks', message: String(error) });
+  }
+}

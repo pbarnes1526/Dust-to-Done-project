@@ -1,0 +1,19 @@
+{
+  "companyName": "Dust to Done Renovation Solutions LLC",
+  "collapseLabel": "Collapse",
+  "pageTitle": "Dashboard",
+  "metaTitle": "Dashboard – Dust to Done",
+  "metaDescription": "Dust to Done Renovation Solutions — internal business dashboard for jobs, expenses, invoices, and reports.",
+  "activeJobsHeading": "Active Jobs",
+  "activeJobsViewAll": "View all",
+  "activeJobsEmpty": "No jobs yet",
+  "expensesHeading": "Recent Expenses",
+  "expensesViewAll": "View all",
+  "expensesEmpty": "No expenses yet",
+  "invoicesHeading": "Invoices",
+  "invoicesViewAll": "View all",
+  "invoicesEmpty": "No invoices yet",
+  "paymentsHeading": "Recent Payments",
+  "paymentsViewAll": "View all",
+  "paymentsEmpty": "No payments recorded yet"
+}

@@ -1,0 +1,37 @@
+{
+  "pageTitle": "Payments",
+  "pageDescription": "Track and manage payments received for jobs and invoices.",
+  "kpi": {
+    "totalCollectedLabel": "Total Collected",
+    "thisMonthLabel": "This Month",
+    "paymentCountLabel": "Payments Recorded"
+  },
+  "table": {
+    "dateCol": "Date",
+    "amountCol": "Amount",
+    "methodCol": "Method",
+    "jobCol": "Job",
+    "invoiceCol": "Invoice",
+    "referenceCol": "Reference",
+    "actionsCol": "Actions"
+  },
+  "form": {
+    "addTitle": "Record Payment",
+    "editTitle": "Edit Payment",
+    "amountLabel": "Amount",
+    "dateLabel": "Payment Date",
+    "methodLabel": "Payment Method",
+    "referenceLabel": "Reference / Check #",
+    "jobLabel": "Linked Job (optional)",
+    "invoiceLabel": "Linked Invoice (optional)",
+    "notesLabel": "Notes",
+    "saveButton": "Save Payment",
+    "cancelButton": "Cancel"
+  },
+  "empty": "No payments recorded yet. Click \"Record Payment\" to add one.",
+  "methodCash": "Cash",
+  "methodCheck": "Check",
+  "methodCard": "Card",
+  "methodTransfer": "Transfer",
+  "methodOther": "Other"
+}

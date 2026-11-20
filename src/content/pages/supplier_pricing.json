@@ -1,0 +1,16 @@
+{
+  "pageTitle": "Supplier Price Center",
+  "pageSubtitle": "Menards & Lowe's — Terre Haute, IN",
+  "refreshButtonLabel": "Refresh Now",
+  "refreshingLabel": "Starting…",
+  "connectionSectionTitle": "Connection Status",
+  "comparisonTableTitle": "Material Price Comparison",
+  "refreshHistoryTitle": "Recent Refresh Runs",
+  "authorizationTitle": "Retailer Authorization Required",
+  "authorizationBody": "Neither Menards nor Lowe's offers a public pricing API. Live price retrieval requires an authorized data-feed agreement or licensed product data provider. The daily scheduler is active and will begin fetching prices automatically once credentials are configured. All infrastructure, comparison logic, history tracking, and notifications are fully built and ready.",
+  "menardsPro": "Contact Menards corporate or a licensed building-materials data provider to request a product data feed for Terre Haute, IN.",
+  "lowesPro": "Contact Lowe's Pro or a licensed data provider. Lowe's closed its public Developer API; authorized B2B data feeds are available through their Pro program.",
+  "searchPlaceholder": "Search materials…",
+  "nextRefreshLabel": "Daily at 6:00 AM ET",
+  "storeLocation": "Terre Haute, IN"
+}

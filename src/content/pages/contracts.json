@@ -1,0 +1,94 @@
+{
+  "NAV_ITEMS": [
+    {
+      "label": "Dashboard",
+      "id": "dashboard",
+      "path": "/"
+    },
+    {
+      "label": "Jobs & Projects",
+      "id": "jobs",
+      "path": "/jobs"
+    },
+    {
+      "label": "Job Calendar",
+      "id": "calendar",
+      "path": "/calendar"
+    },
+    {
+      "label": "Employees",
+      "id": "employees",
+      "path": "/employees"
+    },
+    {
+      "label": "Customers",
+      "id": "customers",
+      "path": "/customers"
+    },
+    {
+      "label": "Estimates",
+      "id": "estimates",
+      "path": "/estimates"
+    },
+    {
+      "label": "Expenses",
+      "id": "expenses",
+      "path": "/expenses"
+    },
+    {
+      "label": "Invoices",
+      "id": "invoices",
+      "path": "/invoices"
+    },
+    {
+      "label": "Payments",
+      "id": "payments",
+      "path": "/payments"
+    },
+    {
+      "label": "Contracts",
+      "id": "contracts",
+      "path": "/contracts"
+    },
+    {
+      "label": "Material Orders",
+      "id": "material-orders",
+      "path": "/material-orders"
+    },
+    {
+      "label": "Documents",
+      "id": "documents",
+      "path": "/documents"
+    },
+    {
+      "label": "Vendors",
+      "id": "vendors",
+      "path": "/vendors"
+    },
+    {
+      "label": "Reports",
+      "id": "reports",
+      "path": "/reports"
+    },
+    {
+      "label": "Price Library",
+      "id": "price-library",
+      "path": "/price-library"
+    },
+    {
+      "label": "Scope Builder",
+      "id": "scope",
+      "path": "/scope"
+    },
+    {
+      "label": "AI Takeoff",
+      "id": "takeoff",
+      "path": "/takeoff"
+    },
+    {
+      "label": "Settings",
+      "id": "settings",
+      "path": "/settings"
+    }
+  ]
+}

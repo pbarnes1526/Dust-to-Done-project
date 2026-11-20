@@ -1,0 +1,14 @@
+{
+  "brandName": "Dust to Done",
+  "brandTagline": "Renovation Solutions LLC — Owner Portal",
+  "pageTitle": "Owner Login — Dust to Done",
+  "cardHeading": "Sign In",
+  "emailLabel": "Email",
+  "emailPlaceholder": "owner@example.com",
+  "passwordLabel": "Password",
+  "submitButton": "Sign In",
+  "loadingButton": "Signing in…",
+  "forgotPasswordLink": "Forgot password?",
+  "errorFallback": "Login failed. Please check your connection and try again.",
+  "errorInvalid": "Invalid email or password. Please try again."
+}

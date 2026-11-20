@@ -1,0 +1,21 @@
+{
+  "pageTitle": "Jobs & Projects",
+  "pageDescription": "Manage renovation jobs and projects, track status, budgets, and client information.",
+  "searchPlaceholder": "Search jobs…",
+  "newJobButton": "New Job",
+  "backToJobs": "Back to jobs",
+  "clientInfoLabel": "Client Info",
+  "jobDetailsLabel": "Job Details",
+  "notesLabel": "Notes",
+  "paymentsLabel": "Payments Received",
+  "managePayments": "Manage →",
+  "noPayments": "No payments recorded for this job.",
+  "editJob": "Edit Job",
+  "deleteJob": "Delete",
+  "statusLabels": {
+    "active": "Active",
+    "completed": "Completed",
+    "on_hold": "On Hold",
+    "cancelled": "Cancelled"
+  }
+}

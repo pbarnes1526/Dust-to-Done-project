@@ -1,0 +1,15 @@
+import type { Request, Response } from 'express';
+import { db } from '../../../db/client.js';
+import { contracts } from '../../../db/schema.js';
+import { eq } from 'drizzle-orm';
+
+export default async function handler(req: Request<{ contractId: string }>, res: Response) {
+  try {
+    const id = parseInt(req.params.contractId, 10);
+    if (isNaN(id)) return res.status(400).json({ error: 'Invalid contract ID' });
+    await db.delete(contracts).where(eq(contracts.id, id));
+    res.json({ ok: true });
+  } catch (err) {
+    res.status(500).json({ error: 'Failed to delete contract', message: String(err) });
+  }
+}
